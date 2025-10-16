@@ -1,0 +1,28 @@
+[
+  {
+    "question": "What is the best football team in the world?",
+    "choice1": "Manchester City",
+    "choice2": "Tottenham",
+    "choice3": "Bonno Fc",
+    "choice4": "Liverpool",
+    "answer": 3
+  },
+  {
+    "question": "Who is the smartest?",
+    "choice1": "Patrick",
+    "choice2": "Safwan",
+    "choice3": "Mustafa",
+    "choice4": "Felix",
+    "answer": 1
+  },
+  {
+    "question": " Who has the best haircut?",
+    "choice1": "Felix",
+    "choice2": "Mussy",
+    "choice3": "Houseboy",
+    "choice4": "Issa",
+    "answer": 1
+  }
+
+]
+
